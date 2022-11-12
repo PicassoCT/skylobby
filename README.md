@@ -14,6 +14,8 @@ Below are instructions on how to build and contribute to skylobby.
 
 You will need [Java 11 or higher](https://adoptium.net/) and the [Clojure CLI tools](https://clojure.org/guides/getting_started#_clojure_installer_and_cli_tools).
 
+TODO INSTALLER.JSON usage
+
 ### REPL
 
 Runs an interactive compiler as well as the UI. If you make a change to something in `src/clj` it will trigger a recompile and re-render the UI from the running state.
